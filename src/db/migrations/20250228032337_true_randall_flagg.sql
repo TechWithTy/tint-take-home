@@ -1,0 +1,1 @@
+ALTER TABLE "policies" ADD COLUMN "status" text DEFAULT 'pending' NOT NULL;
